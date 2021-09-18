@@ -1,2 +1,3 @@
 # minciencias
-Análisis de datos del Ministerio de Ciencia y Tecnología
+
+Este repositorio muestra un ejercicio de análisis de datos usando datos del Ministerio de Ciencia, Tecnología e Innovación de Colombia. Específicamente, se analizan los datos de la base de "[Investigadores reconocidos por convocatoria a través de la Plataforma ScienTI - Colombia](https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Investigadores-Reconocidos-por-convocatoria/bqtm-4y2h)". Esta base recoge datos de investigadores e investigadoras registradas como parte del sistema de ciencia colombiano.
